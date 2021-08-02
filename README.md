@@ -507,7 +507,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 ## Prerequisite Knowledge
 
-- [ ] **Learn C**
+- [x] **Learn C**
     - C is everywhere. You'll see examples in books, lectures, videos, *everywhere* while you're studying
     - [ ] [The C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
         - This is a short book, but it will give you a great handle on the C language and if you practice it a little
@@ -1366,13 +1366,13 @@ Mock Interviews:
     - [Cracking the Coding Interview - Fullstack Speaker Series](https://www.youtube.com/watch?v=Eg5-tdAwclo)
 
 ## Best way to find perfect career opportunities for you
-- If you are trying to find new job opportunities, or if you are trying to find internships, if want to know about the salary of a job role in any companies or want to just know about the company reputation before applying to that company, here are the list of platforms which can help you find the above answers and more. 
+- If you are trying to find new job opportunities, or if you are trying to find internships, if want to know about the salary of a job role in any companies or want to just know about the company reputation before applying to that company, here are the list of platforms which can help you find the above answers and more.
 - [Best Websites for Careers & Jobs](https://ayedot.com/151/MiniBlog/Top-10-Best-Websites-for-Careers--Jobs)
 
 ## Your Resume
 
 - See Resume prep items in Cracking The Coding Interview and back of Programming Interviews Exposed
-- Very Important thing to remember while creating your resume, if you applying for big companies is that make it ATS Compliant. 
+- Very Important thing to remember while creating your resume, if you applying for big companies is that make it ATS Compliant.
 - [How to Create or Check if your Resume is ATS Compliant](https://ayedot.com/97/MiniBlog/Meaning-of-ATS-compliant-resume-and-How-to-create-ATS-Resume-for-Free)
 
 ## Be thinking of for when the interview comes
@@ -1394,7 +1394,7 @@ Have a story, not just data, about something you accomplished.
 - What would you have done better at [job x / project y]?
 
 
-- If you find hard to come up with good answers of this type interview questions, you can refer below link for some answer templates and have some idea. 
+- If you find hard to come up with good answers of this type interview questions, you can refer below link for some answer templates and have some idea.
 - [General Interview Questions and their Answers](https://ayedot.com/119/MiniBlog/General-Interview-Questions-and-their-Answers-for-Tech-Jobs)
 
 
